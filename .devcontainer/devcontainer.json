@@ -1,14 +1,8 @@
-{
-	"name": "Crawler Dev Container",
-	"image": "jruby:9.4.12.0-jdk21", // Same image as Dockerfile
-	"postCreateCommand": "IS_DOCKER=true make install",
-	"features": {
-		"ghcr.io/devcontainers/features/git:1": {
-			"version": "latest"
-		},
-		"ghcr.io/devcontainers/features/docker-in-docker:2.12.2": {
-			"version": "latest",
-			"dockerSocketBindMount": true
-		}
-	}
-}
+<p><strong>@Facebook</strong></p>
+<p><strong><a href="https://www.facebook.com/Trivexol.Germany.De">https://www.facebook.com/Trivexol.Germany.De</a></strong></p>
+<p><strong><a href="https://www.facebook.com/groups/trivexol.germany.austria/">https://www.facebook.com/groups/trivexol.germany.austria/</a></strong></p>
+<p><strong><a href="https://www.facebook.com/groups/trivexol.kapseln.germany.austria/">https://www.facebook.com/groups/trivexol.kapseln.germany.austria/</a></strong></p>
+<p><strong><a href="https://www.facebook.com/groups/trivexol.kapseln.germany.austria.bewertungen/">https://www.facebook.com/groups/trivexol.kapseln.germany.austria.bewertungen/</a></strong></p>
+<p><strong><a href="https://www.facebook.com/groups/trivexol.germany.austria.bewertungen/">https://www.facebook.com/groups/trivexol.germany.austria.bewertungen/</a></strong></p>
+<p><strong><a href="https://www.facebook.com/events/1345199810716545">https://www.facebook.com/events/1345199810716545</a></strong></p>
+<p><strong><a href="https://trivexol-germany-austria.alboompro.com/">https://trivexol-germany-austria.alboompro.com/</a></strong></p>
